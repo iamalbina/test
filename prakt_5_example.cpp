@@ -38,7 +38,7 @@ class student{
     
     student()
     {
-      cout<<"¬ведите, пожалуйста, им€:";
+      cout<<"¬ведите, пожалуйста,      им€:";
       cin>>name;
       cout<<"¬ведите, пожалуйста, фамилию:";
       cin>>secondName;
